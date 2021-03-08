@@ -3,7 +3,7 @@ A fullstack app that allows registered users to simulate trading in the US stock
 
 ## User Stories
 -[] User should be able to create an account with email, username and password
-User should be able to edit account
+-[] User should be able to edit account
 user should be able delete account
 User should be able to log in using email and password
 User should be able to buy stocks at current market price from a list of stocks
