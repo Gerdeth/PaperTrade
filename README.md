@@ -1,4 +1,4 @@
-# PaperTrade
+# stocks-O
 A fullstack app that allows registered users to simulate trading in the US stock market using current stock prices and a starting balance of $10000
 
 ## User Stories
