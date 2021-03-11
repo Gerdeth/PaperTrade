@@ -12,4 +12,4 @@ A fullstack app that allows registered users to simulate trading in the US stock
 - [ ] User account should display a list of all transactions
 
 ## stocks-O frontend
-stocks-O frontend code can be found here 
+stocks-O frontend code can be found here : https://github.com/Gerdeth/stocks-O-frontend 
